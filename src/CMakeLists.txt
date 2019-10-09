@@ -45,6 +45,7 @@ set(keepassx_SOURCES
         core/Group.cpp
         core/HibpOffline.cpp
         core/InactivityTimer.cpp
+        core/Levenshtein.cpp
         core/Merger.cpp
         core/Metadata.cpp
         core/PasswordGenerator.cpp
